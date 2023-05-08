@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/for-oleg/static/css/main.9150c70b.css",
+    "main.js": "/for-oleg/static/js/main.a12b6029.js",
+    "static/js/787.0a0c7618.chunk.js": "/for-oleg/static/js/787.0a0c7618.chunk.js",
+    "index.html": "/for-oleg/index.html",
+    "main.9150c70b.css.map": "/for-oleg/static/css/main.9150c70b.css.map",
+    "main.a12b6029.js.map": "/for-oleg/static/js/main.a12b6029.js.map",
+    "787.0a0c7618.chunk.js.map": "/for-oleg/static/js/787.0a0c7618.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9150c70b.css",
+    "static/js/main.a12b6029.js"
+  ]
+}
